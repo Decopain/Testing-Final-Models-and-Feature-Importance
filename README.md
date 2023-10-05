@@ -25,6 +25,6 @@ FEATURE IMPORTANCE: <br/>
 <p align="center">
 ENSEMBLE MODEL RESULTS:  <br/>
 
-![2](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/6ecb2c44-304a-476c-b218-302d81c7c90d)
+<img width="935" alt="mhjytv" src="https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/243a0e68-8dc2-404b-8b30-aef47854a7ae">
 <br />
 <br />
